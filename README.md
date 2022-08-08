@@ -8,3 +8,4 @@ A output sample is store in output folder with results from different models. Pl
 
 The Train file for each model is in their respective folder. Once model are trained, the test code for all of them can be found in test.ipynb.
 
+The pretrained models can be dowloaded from - https://drive.google.com/file/d/18FxUHlZTkxWgP9NDgQlLune4bEXjud_Q/view?usp=sharing
